@@ -1,1 +1,1 @@
--keep class com.alpha.updater.ui.FlingBehavior { *; }
+-keep class com.sigma.updater.ui.FlingBehavior { *; }
