@@ -10,9 +10,9 @@ android_app {
     // Include SettingsLib and its dependencies
     defaults: ["SettingsLibDefaults"],
 
-    srcs: ["src/main/java/**/*.java"],
-    resource_dirs: ["src/main/res"],
-    manifest: "src/main/AndroidManifest.xml",
+    srcs: ["src/**/*.java"],
+    resource_dirs: ["res"],
+    manifest: "AndroidManifest.xml",
 
     platform_apis: true,
     privileged: true,
