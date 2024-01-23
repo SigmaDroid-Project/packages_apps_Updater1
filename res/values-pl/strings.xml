@@ -120,7 +120,7 @@
     <string name="ongoing_channel_title">Trwające pobieranie</string>
     <string name="update_failed_channel_title">Aktualizacja nie powiodła się</string>
     <string name="info_dialog_title">Czy wiesz, że?</string>
-    <string name="info_dialog_message">Aktualizacje AlphaDroid to pełne pakiety instalacyjne. Oznacza to, że zawsze możesz zainstalować tylko najnowszą aktualizację, nawet jeśli poprzednie zostały pominięte!</string>
+    <string name="info_dialog_message">Aktualizacje SigmaDroid to pełne pakiety instalacyjne. Oznacza to, że zawsze możesz zainstalować tylko najnowszą aktualizację, nawet jeśli poprzednie zostały pominięte!</string>
     <string name="info_dialog_ok">Dziękujemy za informację!</string>
     <string name="local_update_import">Aktualizacja lokalna</string>
     <string name="local_update_import_progress">Importowanie aktualizacji lokalnej\u2026</string>

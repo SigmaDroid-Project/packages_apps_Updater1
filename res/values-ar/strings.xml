@@ -126,6 +126,6 @@
     <string name="ongoing_channel_title">التنزيلات الحالية</string>
     <string name="update_failed_channel_title">فشل التحديث</string>
     <string name="info_dialog_title">هل كنت تعلم؟  </string>
-    <string name="info_dialog_message">تحديثات AlphaDroid هي حزم تثبيت كاملة. وهذا يعني أنه يمكنك دائماً تثبيت أحدث إصدار فقط، حتى إذا كنت قد تخطيت بعض الإصدارات السابقة!</string>
+    <string name="info_dialog_message">تحديثات SigmaDroid هي حزم تثبيت كاملة. وهذا يعني أنه يمكنك دائماً تثبيت أحدث إصدار فقط، حتى إذا كنت قد تخطيت بعض الإصدارات السابقة!</string>
     <string name="info_dialog_ok">شكرًا على المعلومة!</string>
 </resources>

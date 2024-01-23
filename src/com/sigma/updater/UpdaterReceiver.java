@@ -28,8 +28,8 @@ import android.os.SystemProperties;
 import androidx.core.app.NotificationCompat;
 import androidx.preference.PreferenceManager;
 
-import com.alpha.updater.R;
-import com.alpha.updater.misc.Utils;
+import com.sigma.updater.R;
+import com.sigma.updater.misc.Utils;
 import com.sigma.updater.misc.BuildInfoUtils;
 import com.sigma.updater.misc.Constants;
 import com.sigma.updater.misc.StringGenerator;

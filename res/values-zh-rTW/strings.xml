@@ -111,7 +111,7 @@
     <string name="ongoing_channel_title">目前下載</string>
     <string name="update_failed_channel_title">更新失敗</string>
     <string name="info_dialog_title">您知道嗎？</string>
-    <string name="info_dialog_message">AlphaDroid 的更新為完整的安裝套件。您可以在跳過中間一些更新的情況下，直接安裝最新的版本。</string>
+    <string name="info_dialog_message">SigmaDroid 的更新為完整的安裝套件。您可以在跳過中間一些更新的情況下，直接安裝最新的版本。</string>
     <string name="info_dialog_ok">感謝您提供資料！</string>
     <string name="local_update_import">本機更新</string>
     <string name="local_update_import_progress">正在導入本機更新 \u2026</string>
