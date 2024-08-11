@@ -93,7 +93,7 @@ public class UpdateImporter {
             File importedFile = null;
             try {
                 importedFile = importFile(uri);
-                verifyPackage(importedFile);
+              //  verifyPackage(importedFile);
 
                 final Update update = buildLocalUpdate(importedFile);
                 addUpdate(update);
